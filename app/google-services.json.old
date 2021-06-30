@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "298808302238",
+    "project_id": "muffintruck-push",
+    "storage_bucket": "muffintruck-push.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:298808302238:android:72eaf3edb8a8fe54d3798f",
+        "android_client_info": {
+          "package_name": "fr.smarquis.fcm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "298808302238-nr3oqg1lmmntvrvaqe6covgduf13b3p3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBP9vetxhoJqwHFh_9P6tnzRPfxeYifV6Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "298808302238-nr3oqg1lmmntvrvaqe6covgduf13b3p3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:298808302238:android:db6c1891eb9cae89d3798f",
+        "android_client_info": {
+          "package_name": "tkstone.test.muffin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "298808302238-nr3oqg1lmmntvrvaqe6covgduf13b3p3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBP9vetxhoJqwHFh_9P6tnzRPfxeYifV6Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "298808302238-nr3oqg1lmmntvrvaqe6covgduf13b3p3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
